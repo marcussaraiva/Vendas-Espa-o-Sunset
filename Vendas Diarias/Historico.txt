@@ -1,0 +1,774 @@
+
+------------------------------
+
+DATA: 24/08/2019
+
+------------------------------
+
+Codigo: 16995
+Valor: R$ 16,99
+
+Quantidade: 1
+Parcial: R$16.99
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 1
+Parcial: R$15.99
+
+Codigo: 12997
+Valor: R$ 12,99
+
+Quantidade: 2
+Parcial: R$41.97
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 1
+Parcial: R$40.97
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 1
+Parcial: R$39.97
+
+Codigo: 17
+Valor: R$ 0,01
+
+Quantidade: 3
+Parcial: R$40.00
+
+Valor Total: R$ 40.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 12997
+Valor: R$ 12,99
+
+Quantidade: 2
+Parcial: R$25.98
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 2
+Parcial: R$23.98
+
+Codigo: 17
+Valor: R$ 0,01
+
+Quantidade: 2
+Parcial: R$24.00
+
+Valor Total: R$ 24.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 12997
+Valor: R$ 12,99
+
+Quantidade: 0
+Parcial: R$0.00
+
+Codigo: 16995
+Valor: R$ 16,99
+
+Quantidade: 2
+Parcial: R$33.98
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 2
+Parcial: R$31.98
+
+Codigo: 17
+Valor: R$ 0,01
+
+Quantidade: 2
+Parcial: R$32.00
+
+Valor Total: R$ 32.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 16995
+Valor: R$ 16,99
+
+Quantidade: 2
+Parcial: R$33.98
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 2
+Parcial: R$31.98
+
+Codigo: 1007
+Valor: R$ 1,00
+
+Quantidade: 2
+Parcial: R$33.98
+
+Valor Total: R$ 33.98
+Forma de Pagamento: Credito
+------------------------------
+
+Codigo: 16995
+Valor: R$ 16,99
+
+Quantidade: 1
+Parcial: R$16.99
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 1
+Parcial: R$15.99
+
+Codigo: 40006
+Valor: R$ 40,00
+
+Quantidade: 3
+Parcial: R$135.99
+
+Codigo: 22224
+Valor: R$ 55,00
+
+Quantidade: 1
+Parcial: R$190.99
+
+Codigo: 19996
+Valor: R$ 19,99
+
+Quantidade: 1
+Parcial: R$210.98
+
+Codigo: 17
+Valor: R$ 0,01
+
+Quantidade: 1
+Parcial: R$210.99
+
+Codigo: 11112
+Valor: R$ 18,00
+
+Quantidade: 1
+Parcial: R$228.99
+
+Codigo: 16001
+Valor: R$ 16,00
+
+Quantidade: 1
+Parcial: R$244.99
+
+Codigo: 22002
+Valor: R$ 22,00
+
+Quantidade: 1
+Parcial: R$266.99
+
+Valor Total: R$ 266.99
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 1007
+Valor: R$ 1,00
+
+Quantidade: 3
+Parcial: R$3.00
+
+Codigo: 17
+Valor: R$ 0,01
+
+Quantidade: 1
+Parcial: R$3.01
+
+Valor Total: R$ 3.01
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 11112
+Valor: R$ 18,00
+
+Quantidade: 1
+Parcial: R$18.00
+
+Valor Total: R$ 18.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 12997
+Valor: R$ 12,99
+
+Quantidade: 1
+Parcial: R$12.99
+
+Codigo: 1007
+Valor: R$ 1,00
+
+Quantidade: 1
+Parcial: R$13.99
+
+Valor Total: R$ 13.99
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 16001
+Valor: R$ 16,00
+
+Quantidade: 1
+Parcial: R$16.00
+
+Valor Total: R$ 16.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 16995
+Valor: R$ 16,99
+
+Quantidade: 5
+Parcial: R$84.95
+
+Codigo: 15004
+Valor: R$ 15,00
+
+Quantidade: 0
+Parcial: R$84.95
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 5
+Parcial: R$79.95
+
+Codigo: 12997
+Valor: R$ 12,99
+
+Quantidade: 4
+Parcial: R$131.91
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 4
+Parcial: R$127.91
+
+Codigo: 40006
+Valor: R$ 40,00
+
+Quantidade: 1
+Parcial: R$167.91
+
+Codigo: 45001
+Valor: R$ 45,00
+
+Quantidade: 1
+Parcial: R$212.91
+
+Codigo: 12997
+Valor: R$ 12,99
+
+Quantidade: 1
+Parcial: R$225.90
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 1
+Parcial: R$224.90
+
+Codigo: 17
+Valor: R$ 0,01
+
+Quantidade: 10
+Parcial: R$225.00
+
+Codigo: 5005
+Valor: R$ 5,00
+
+Quantidade: 1
+Parcial: R$230.00
+
+Codigo: 5005
+Valor: R$ 5,00
+
+Quantidade: 1
+Parcial: R$235.00
+
+Valor Total: R$ 235.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 11112
+Valor: R$ 18,00
+
+Quantidade: 0
+Parcial: R$0.00
+
+Valor Total: R$ 0.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 1007
+Valor: R$ 1,00
+
+Quantidade: 1
+Parcial: R$1.00
+
+Valor Total: R$ 1.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 12997
+Valor: R$ 12,99
+
+Quantidade: 2
+Parcial: R$25.98
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 2
+Parcial: R$23.98
+
+Codigo: 22224
+Valor: R$ 55,00
+
+Quantidade: 1
+Parcial: R$78.98
+
+Valor Total: R$ 78.98
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 17
+Valor: R$ 0,01
+
+Quantidade: 2
+Parcial: R$0.02
+
+Valor Total: R$ 0.02
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 12997
+Valor: R$ 12,99
+
+Quantidade: 1
+Parcial: R$12.99
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 1
+Parcial: R$11.99
+
+Codigo: 17
+Valor: R$ 0,01
+
+Quantidade: 1
+Parcial: R$12.00
+
+Valor Total: R$ 12.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 60004
+Valor: R$ 60,00
+
+Quantidade: 1
+Parcial: R$60.00
+
+Codigo: 40006
+Valor: R$ 40,00
+
+Quantidade: 1
+Parcial: R$100.00
+
+Valor Total: R$ 100.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 22224
+Valor: R$ 55,00
+
+Quantidade: 1
+Parcial: R$55.00
+
+Valor Total: R$ 55.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 40006
+Valor: R$ 40,00
+
+Quantidade: 1
+Parcial: R$40.00
+
+Valor Total: R$ 40.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 12997
+Valor: R$ 12,99
+
+Quantidade: 1
+Parcial: R$12.99
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 1
+Parcial: R$11.99
+
+Codigo: 17
+Valor: R$ 0,01
+
+Quantidade: 1
+Parcial: R$12.00
+
+Valor Total: R$ 12.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 16001
+Valor: R$ 16,00
+
+Quantidade: 1
+Parcial: R$16.00
+
+Valor Total: R$ 16.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 16001
+Valor: R$ 16,00
+
+Quantidade: 1
+Parcial: R$16.00
+
+Valor Total: R$ 16.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 45001
+Valor: R$ 45,00
+
+Quantidade: 1
+Parcial: R$45.00
+
+Codigo: 60004
+Valor: R$ 60,00
+
+Quantidade: 1
+Parcial: R$105.00
+
+Valor Total: R$ 105.00
+Forma de Pagamento: Credito
+------------------------------
+
+Codigo: 45001
+Valor: R$ 45,00
+
+Quantidade: 1
+Parcial: R$45.00
+
+Codigo: 5005
+Valor: - R$ 5,00
+
+Quantidade: 1
+Parcial: R$40.00
+
+Codigo: 40006
+Valor: R$ 40,00
+
+Quantidade: 1
+Parcial: R$80.00
+
+Valor Total: R$ 80.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 16001
+Valor: R$ 16,00
+
+Quantidade: 2
+Parcial: R$32.00
+
+Valor Total: R$ 32.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 16995
+Valor: R$ 16,99
+
+Quantidade: 1
+Parcial: R$16.99
+
+Valor Total: R$ 16.99
+Forma de Pagamento: Credito
+------------------------------
+
+Codigo: 70003
+Valor: R$ 70,00
+
+Quantidade: 3
+Parcial: R$210.00
+
+Codigo: 15004
+Valor: R$ 15,00
+
+Quantidade: 3
+Parcial: R$255.00
+
+Codigo: 70003
+Valor: R$ 70,00
+
+Quantidade: 2
+Parcial: R$395.00
+
+Codigo: 1007
+Valor: R$ 1,00
+
+Quantidade: 20
+Parcial: R$415.00
+
+Codigo: 50005
+Valor: R$ 50,00
+
+Quantidade: 2
+Parcial: R$515.00
+
+Valor Total: R$ 515.00
+Forma de Pagamento: Credito
+------------------------------
+
+Codigo: 45001
+Valor: R$ 45,00
+
+Quantidade: 2
+Parcial: R$90.00
+
+Valor Total: R$ 90.00
+Forma de Pagamento: Credito
+------------------------------
+
+Codigo: 30007
+Valor: R$ 30,00
+
+Quantidade: 1
+Parcial: R$30.00
+
+Codigo: 17
+Valor: R$ 0,01
+
+Quantidade: 96
+Parcial: R$30.96
+
+Valor Total: R$ 30.96
+Forma de Pagamento: Credito
+------------------------------
+
+Codigo: 65009
+Valor: R$ 65,00
+
+Quantidade: 1
+Parcial: R$65.00
+
+Codigo: 65009
+Valor: - R$ 65,00
+
+Quantidade: 1
+Parcial: R$0.00
+
+Valor Total: R$ 0.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 40006
+Valor: R$ 40,00
+
+Quantidade: 1
+Parcial: R$40.00
+
+Valor Total: R$ 40.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 65009
+Valor: R$ 65,00
+
+Quantidade: 1
+Parcial: R$65.00
+
+Codigo: 40006
+Valor: R$ 40,00
+
+Quantidade: 1
+Parcial: R$105.00
+
+Codigo: 30007
+Valor: R$ 30,00
+
+Quantidade: 1
+Parcial: R$135.00
+
+Valor Total: R$ 135.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 22002
+Valor: R$ 22,00
+
+Quantidade: 1
+Parcial: R$22.00
+
+Codigo: 5005
+Valor: R$ 5,00
+
+Quantidade: 1
+Parcial: R$27.00
+
+Codigo: 22002
+Valor: - R$ 22,00
+
+Quantidade: 1
+Parcial: R$5.00
+
+Codigo: 5005
+Valor: R$ 5,00
+
+Quantidade: 1
+Parcial: R$10.00
+
+Valor Total: R$ 10.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 12997
+Valor: R$ 12,99
+
+Quantidade: 1
+Parcial: R$12.99
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 1
+Parcial: R$11.99
+
+Codigo: 17
+Valor: R$ 0,01
+
+Quantidade: 1
+Parcial: R$12.00
+
+Valor Total: R$ 12.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 12997
+Valor: R$ 12,99
+
+Quantidade: 1
+Parcial: R$12.99
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 1
+Parcial: R$11.99
+
+Valor Total: R$ 11.99
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 40006
+Valor: R$ 40,00
+
+Quantidade: 1
+Parcial: R$40.00
+
+Valor Total: R$ 40.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 12997
+Valor: R$ 12,99
+
+Quantidade: 1
+Parcial: R$12.99
+
+Codigo: 17
+Valor: R$ 0,01
+
+Quantidade: 1
+Parcial: R$13.00
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 1
+Parcial: R$12.00
+
+Valor Total: R$ 12.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 12997
+Valor: R$ 12,99
+
+Quantidade: 1
+Parcial: R$12.99
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 0
+Parcial: R$12.99
+
+Valor Total: R$ 12.99
+Forma de Pagamento: Dinheiro
+------------------------------
+
+Codigo: 25003
+Valor: R$ 25,00
+
+Quantidade: 1
+Parcial: R$25.00
+
+Codigo: 1007
+Valor: - R$ 1,00
+
+Quantidade: 1
+Parcial: R$24.00
+
+Valor Total: R$ 24.00
+Forma de Pagamento: Dinheiro
+------------------------------
+
+------------------------------
+
+DATA: 11/11/1111
+
+------------------------------
+
+Codigo: 50005
+Valor: R$ 50,00
+
+Quantidade: 2
+Parcial: R$100.00
+
+Codigo: 50005
+Valor: - R$ 50,00
+
+Quantidade: 1
+Parcial: R$50.00
+
+Valor Total: R$ 50.00
+Forma de Pagamento: Dinheiro
+------------------------------

@@ -1,0 +1,38 @@
+
+------------------------------
+
+DATA: 24/08/2019
+
+------------------------------
+
+	ENCERRAMENTO DE VENDAS
+	
+TOTAL VENDIDO: R$ 2181.90
+
+MAIOR VENDA: R$ 515.00
+FORMA DE PAGAMENTO: Credito
+
+TOTAL EM DINHEIRO: R$ 1389.97
+TOTAL DEBITO: R$ 0.00
+TOTAL CREDITO: R$ 791.93
+TOTAL MAQUINA: R$ 791.93
+
+
+------------------------------
+
+DATA: 11/11/1111
+
+------------------------------
+
+	ENCERRAMENTO DE VENDAS
+	
+TOTAL VENDIDO: R$ 50.00
+
+MAIOR VENDA: R$ 50.00
+FORMA DE PAGAMENTO: Dinheiro
+
+TOTAL EM DINHEIRO: R$ 50.00
+TOTAL DEBITO: R$ 0.00
+TOTAL CREDITO: R$ 0.00
+TOTAL MAQUINA: R$ 0.00
+
